@@ -1,0 +1,10 @@
+Flask==1.1.2
+Flask-Testing==0.8.1
+Flask-WTF==0.14.3
+
+pandas==1.2.4
+sklearn==0.0
+statsmodels==0.12.2
+gunicorn==20.1.0
+seaborn==0.11.1
+xgboost==1.4.1
